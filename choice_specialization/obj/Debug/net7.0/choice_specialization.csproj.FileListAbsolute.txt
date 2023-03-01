@@ -1,0 +1,15 @@
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\bin\Debug\net7.0\choice_specialization.exe
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\bin\Debug\net7.0\choice_specialization.deps.json
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\bin\Debug\net7.0\choice_specialization.runtimeconfig.json
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\bin\Debug\net7.0\choice_specialization.dll
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\bin\Debug\net7.0\choice_specialization.pdb
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\obj\Debug\net7.0\choice_specialization.csproj.AssemblyReference.cache
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\obj\Debug\net7.0\choice_specialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\obj\Debug\net7.0\choice_specialization.AssemblyInfoInputs.cache
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\obj\Debug\net7.0\choice_specialization.AssemblyInfo.cs
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\obj\Debug\net7.0\choice_specialization.csproj.CoreCompileInputs.cache
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\obj\Debug\net7.0\choice_specialization.dll
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\obj\Debug\net7.0\refint\choice_specialization.dll
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\obj\Debug\net7.0\choice_specialization.pdb
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\obj\Debug\net7.0\choice_specialization.genruntimeconfig.cache
+C:\Users\smart\Desktop\Lessons\final_projects\choice_specialization\obj\Debug\net7.0\ref\choice_specialization.dll
